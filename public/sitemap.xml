@@ -1,12 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://mrjordangoldstein.com/blog/2013/06/04/a-fresh-start/</loc>
+        <lastmod>2013-06-04T01:51:57-04:00</lastmod>
+    </url>
+    <url>
         <loc>http://mrjordangoldstein.com/blog/archives/</loc>
-        <lastmod>2013-06-04T00:14:34-04:00</lastmod>
+        <lastmod>2013-06-04T01:51:57-04:00</lastmod>
     </url>
     <url>
         <loc>http://mrjordangoldstein.com/</loc>
-        <lastmod>2013-06-04T00:14:34-04:00</lastmod>
+        <lastmod>2013-06-04T01:51:57-04:00</lastmod>
     </url>
     <url>
         <loc>http://mrjordangoldstein.com/robots.txt</loc>

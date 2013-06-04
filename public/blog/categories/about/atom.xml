@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[mrjordangoldstein]]></title>
-  <link href="http://mrjordangoldstein.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: About | mrjordangoldstein]]></title>
+  <link href="http://mrjordangoldstein.com/blog/categories/about/atom.xml" rel="self"/>
   <link href="http://mrjordangoldstein.com/"/>
   <updated>2013-06-04T01:52:34-04:00</updated>
   <id>http://mrjordangoldstein.com/</id>
