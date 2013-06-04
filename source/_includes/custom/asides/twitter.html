@@ -1,0 +1,9 @@
+{% if site.twitter_user %}
+<section>
+  <h1>Twitter</h1>
+  <div>
+    <p style="margin: .5em 0">Find my feed <a href="http://twitter.com/{{ site.twitter_user }}" target="_blank">@thetabyte</a></p>
+    <p style="margin: .5em 0"><a href="http://twitter.com/{{ site.twitter_user }}" class="twitter-follow-button" data-show-count="{{ site.twitter_show_follower_count }}">Follow @{{ site.twitter_user }}</a></p>
+  </div>
+</section>
+{% endif %}
