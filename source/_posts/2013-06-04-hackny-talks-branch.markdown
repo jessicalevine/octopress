@@ -21,9 +21,9 @@ For the first of our talks this summer, we were treated to [Josh Miller](https:/
 
 Keep in mind, as they did well to note, that their advice was offered specifically in reference to consumer web startups.
 
-I'll end with a quote from the talk, the source of which I will keep anonymous in case it was not wished to be shared. No such intent was expressed, but if you said this and want me to remove it, shoot me an [email](mailto:mrjordangoldstein@gmail.com)! Either way, it was both too funny and too true (in my opinion) to keep a secret:
+I'll end with a quote from the talk. It was both too funny and too true (in my opinion) not to share:
 
-{% blockquote %}
+{% blockquote Cemre Güngör, hackNY Talk at Branch %}
 Doing your startup in San Fransisco is like being an investment banker in New York
 {% endblockquote %}
 
