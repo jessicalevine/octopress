@@ -3,7 +3,7 @@ layout: post
 title: "hackNY Talks: Branch"
 date: 2013-06-04 02:07
 comments: true
-categories: hackny, nytech, talks
+categories: hackny nytech talks
 ---
 This summer, I'm fortunate to be a part of the [hackNY](http://hackny.org/) 2013 Fellows program. As such, I will be attending a number of talks from people in and around the New York City startup scene. While I may not blog for each one, I'll probably post most of the highlights.
 
