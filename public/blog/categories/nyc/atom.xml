@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: nytech | mrjordangoldstein]]></title>
-  <link href="http://mrjordangoldstein.com/blog/categories/nytech/atom.xml" rel="self"/>
+  <title><![CDATA[Category: nyc | mrjordangoldstein]]></title>
+  <link href="http://mrjordangoldstein.com/blog/categories/nyc/atom.xml" rel="self"/>
   <link href="http://mrjordangoldstein.com/"/>
   <updated>2013-07-24T22:07:50-04:00</updated>
   <id>http://mrjordangoldstein.com/</id>
@@ -63,40 +63,6 @@
 <h3>Everything Else</h3>
 
 <p>I could spend just about forever listing the little things that make New York amazing—the architecture, the niche communities, the events, so on, so forth. But altogether, it can be summarized as &ldquo;I love this city&rdquo;, and &ldquo;I want to move here in a more permanent way as fast as possible.&rdquo; I have no idea how to leave it, for the second time, come two weeks from Saturday.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[hackNY Talks: Branch]]></title>
-    <link href="http://mrjordangoldstein.com/blog/2013/06/04/hackny-talks-branch/"/>
-    <updated>2013-06-04T02:07:00-04:00</updated>
-    <id>http://mrjordangoldstein.com/blog/2013/06/04/hackny-talks-branch</id>
-    <content type="html"><![CDATA[<p>This summer, I&rsquo;m fortunate to be a part of the <a href="http://hackny.org/">hackNY</a> 2013 Fellows program. As such, I will be attending a number of talks from people in and around the New York City startup scene. While I may not blog for each one, I&rsquo;ll probably post most of the highlights.</p>
-
-<p>For the first of our talks this summer, we were treated to <a href="https://twitter.com/joshm">Josh Miller</a>, <a href="https://twitter.com/hursh">Hursh Agrawal</a>, and <a href="https://twitter.com/gem_ray">Cemre Güngör</a>, founders of popular conversation platform Branch. They shared a number of helpful and often hilarious stories, as well as doing a fantastic hour long Q&amp;A session. Rather than post my personal reaction, or attempt to summarize everything they said, I&rsquo;d like to share a few short, memorable lessons I wrote down while listening. Keep in mind these are pieces of advice I flagged as being relevant specifically to me, and they do not in any way demonstrate the scope of their presentation. I do hope they give an inkling of the insight the talk offered, and perhaps help someone in need of their wisdom.</p>
-
-<!--more-->
-
-
-<ul>
-<li>To get more out of meetings, go into them wanting someone&rsquo;s opinion, not trying to sell them.</li>
-<li>To discern good feedback from bad, look for what common traits all of your feedback shares.</li>
-<li>Consider someone&rsquo;s experiences, skillset, and bias when judging their feedback.</li>
-<li>Turning an idea into a business is not a conscious decision. It happens naturally over time.</li>
-<li>Be precise with what you want from people. A direct request is more likely to get a reply.</li>
-<li>When you aren&rsquo;t your target user, the design process involves studying people who are.</li>
-<li>One person loving your application is going to promote it much more than ten people liking it.</li>
-<li>Let someone form their own opinion of your application, by actually interacting with it, before pitching them on it. Their feedback is both more honest and overall better this way.</li>
-</ul>
-
-
-<p>Keep in mind, as they did well to note, that their advice was offered specifically in reference to consumer web startups.</p>
-
-<p>I&rsquo;ll end with a quote from the talk. It was both too funny and too true (in my opinion) not to share:</p>
-
-<p><blockquote><p>Doing your startup in San Fransisco is like being an investment banker in New York</p><footer><strong>Cemre Güngör</strong> <cite>hackNY Talk at Branch</cite></footer></blockquote></p>
-
-<p>Interpret it as you will. In the coming days I plan to write on why this fact, and other elements of New York, resonate so well with me.</p>
 ]]></content>
   </entry>
   
